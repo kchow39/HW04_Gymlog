@@ -17,6 +17,7 @@ This is the overall view of the final product.  Once I get the login screen setu
 1. Add [viewBindings](https://developer.android.com/topic/libraries/view-binding) 
 1. Wire up the button
 1. Read information from the display
+1Log our info
 1. Log our info
 1. Test the display
 
